@@ -13,3 +13,6 @@ Drawn in Procreate. I used the app CVSimulator to check how it looks for color b
 
 ### Day 3: Email Signature ###
 Created email signature in Canva using dummy phone number
+
+### Day 4: Business Card ###
+Created business card using https://pageloot.com/qr-code-generator/ to create a QR code link to my website
