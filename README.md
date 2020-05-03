@@ -16,3 +16,6 @@ Created email signature in Canva using dummy phone number
 
 ### Day 4: Business Card ###
 Created business card using https://pageloot.com/qr-code-generator/ to create a QR code link to my website
+
+### Day 5: LinkedIn Header ###
+Created LinkedIn header
