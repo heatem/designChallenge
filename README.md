@@ -19,3 +19,6 @@ Created business card using https://pageloot.com/qr-code-generator/ to create a 
 
 ### Day 5: LinkedIn Header ###
 Created LinkedIn header
+
+### Day 6: Presentation Template ###
+Created presentation template based on Canva's Blue and Purple Product Presentation
