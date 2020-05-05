@@ -22,3 +22,6 @@ Created LinkedIn header
 
 ### Day 6: Presentation Template ###
 Created presentation template based on Canva's Blue and Purple Product Presentation
+
+### Day 7: Zoom Background ###
+Created a simple Zoom background with name, role, and QR code/website
